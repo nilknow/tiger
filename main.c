@@ -1,6 +1,7 @@
-#include <stdio.h>
-
 int main() {
-    printf("Hello, World!\n");
+    int matrix[10][10]={
+            {},
+            {}
+    };
     return 0;
 }
